@@ -78,6 +78,27 @@ Visualisasi dengan ggplot2:<br><br>
 
 ### Nomor 5
 
+a)<br><br>
+Plot sederhana:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170873261-9ebff734-9d6e-4485-b79a-f868255dd021.png)<br><br>
+
+b) <br><br>
+Uji ANOVA dua arah:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170873580-cb71bfc0-5df2-4687-a5d6-57f0ffb1b4f4.png)<br><br>
+
+c) Tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap perlakuan:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170873659-1bd94b67-04d0-4a32-b5b0-7bdca598e6eb.png)<br><br>
+
+d) Uji Tukey:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170873757-a291f960-1daf-4b2d-842e-aa7bde540aaa.png)
+<br>
+![image](https://user-images.githubusercontent.com/87472849/170873780-16a66e78-f88e-4c62-aa16-8dbd43bc037c.png)
+<br><br>
+
+e) Compact letter display untuk menunjukkan perbedaan signifikan antara uji Anova dan uji Tukey: <br><br>
+![image](https://user-images.githubusercontent.com/87472849/170873883-cc233b4e-711a-48f8-9ab4-336d4723be43.png)<br><br>
+
+
 
 
 
