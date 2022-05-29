@@ -44,13 +44,13 @@ Karena p-value kurang dari nilai signifikan (0.005), maka h0:(rata-rata mobil ya
 
 a) <br><br>
 Masing-masing jenis spesies menjadi 3 subjek (grup1, grup2, grup3): <br><br>
-![image](https://user-images.githubusercontent.com/87472849/170871563-317a3a6f-8fa5-4717-84f0-de90886bdc63.png)<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170872938-197f3774-aedf-44ca-8405-3e06825a6856.png)<br><br>
 Plot kuantil normal grup 1:<br><br>
-![image](https://user-images.githubusercontent.com/87472849/170871593-ccb60044-f25e-4e43-9160-57fa5baeb153.png)<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871563-317a3a6f-8fa5-4717-84f0-de90886bdc63.png)<br><br>
 Plot kuantil normal grup 2:<br><br>
-![image](https://user-images.githubusercontent.com/87472849/170871610-ca0f5650-837c-4511-841b-2ef15d1836f2.png)<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871593-ccb60044-f25e-4e43-9160-57fa5baeb153.png)<br><br>
 Plot kuantil normal grup 3:<br><br>
-![image](https://user-images.githubusercontent.com/87472849/170871668-3f49103a-51dd-4284-a369-b14c5722e4c8.png)<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871610-ca0f5650-837c-4511-841b-2ef15d1836f2.png)<br><br>
 
 Berdasarkan ketiga gambar di atas, tidak ditemukan adanya outlier utama dalam homogenitas varians.<br><br>
 
