@@ -22,7 +22,7 @@ t hitung adalah 7.6525 dan p-value adalah 0.00006003<br><br>
 c) <br><br>
 Karena p-value di bawah nilai signifikan (0.005), maka h0:"“tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas", sehingga kesimpulannya adalah tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen<br><br>
 
-## Nomor 2
+### Nomor 2
 
 Diketahui jumlah sampel adalah 100, rata-rata adalah 23500, dan standar deviasi 3900<br>
 Klaim : mobil dekemudikan rata-rata lebih dari 20.000 kilometer per tahun<br><br>
@@ -40,7 +40,7 @@ Maksud dari output di atas adalah z hitung adalah 60.256. Dari nilai z tersebut 
 c) Kesimpulan berdasarkan P-Value yang dihasilkan<br><br>
 Karena p-value kurang dari nilai signifikan (0.005), maka h0:(rata-rata mobil yang dikemudikan kurang dari 20000 kilometer per tahun) ditolak. Sehingga klaim rata-rata mobil yang dikemudikan kurang dari 20000 kilometer per tahun adalah benar
 
-## Nomor 4
+### Nomor 4
 
 a) <br><br>
 Masing-masing jenis spesies menjadi 3 subjek (grup1, grup2, grup3): <br><br>
@@ -76,7 +76,7 @@ e)<br><br>
 Visualisasi dengan ggplot2:<br><br>
 ![image](https://user-images.githubusercontent.com/87472849/170872767-d4ed47a3-ce89-40ce-9360-3436f0d2e7aa.png)<br><br>
 
-## Nomor 5
+### Nomor 5
 
 
 
