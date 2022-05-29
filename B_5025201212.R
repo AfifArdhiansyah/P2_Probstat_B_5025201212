@@ -39,9 +39,30 @@ zsum.test(mean.x = 23500, sigma.x = 3900, n.x = 100, alternative = "greater",
 # kesimpulannya adalah klaim bahwa rata-rata penggunaan mobil adalah lebih dari 20000 kilometer per tahun adalah benar, karena p-value kurang dari 0.05 sehingga h0 ditolak.
 
 # nomor 3
+install.packages("BSDA")
+library(BSDA)
 
+# a)
+#h0: rata-rata saham di Bandung dan di Bali sama
+#h1: rata-rata saham di Bandung dan di Bali berbeda
 
-# nomor 3
+# b)
+tsum.test(mean.x=3.64, s.x = 1.67, n.x = 19, 
+          mean.y =2.79 , s.y = 1.32, n.y = 27, 
+          alternative = "greater", var.equal = TRUE)
+
+# c)
+install.packages("mosaic")
+library(mosaic)
+
+plotDist(dist = 't', df = 2, col = "green")
+
+# d)
+qchisq(p = 0.05, df = 2, lower.tail = FALSE)
+
+# e) Keputusan adalah h0 ditolak
+
+# f) Kesimpulan : rata-rata saham di kota Bandung dan Bali berbeda
 
 #nomor 4
 # a)
