@@ -30,7 +30,7 @@ Klaim : mobil dekemudikan rata-rata lebih dari 20.000 kilometer per tahun<br><br
 a) Apakah anda setuju dengan klaim tersebut?<br><br>
 Berdasarkan uji z sebagai berikut:<br><br>
 ![image](https://user-images.githubusercontent.com/87472849/170869142-f362ac87-50e3-4552-80e5-1f84d86d36ea.png)<br><br>
-Didapatkan:
+Didapatkan:<br><br>
 ![image](https://user-images.githubusercontent.com/87472849/170869181-6a566f8e-202c-4014-a076-99c7a598852e.png)<br><br>
 Dari hasil tersebut, p-value kurang dari 0.005. Sehingga h0(rata-rata kurang dari sama dengan 20000 km) ditolak<br><br>
 
