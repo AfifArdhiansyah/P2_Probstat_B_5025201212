@@ -74,7 +74,7 @@ Berdasarkan hasil di atas grup3-grup1 satu0satunya yang p-value lebih dari 0.05,
 
 e)<br><br>
 Visualisasi dengan ggplot2:<br><br>
-![Uploading image.png…]()<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170872767-d4ed47a3-ce89-40ce-9360-3436f0d2e7aa.png)<br><br>
 
 ## Nomor 5
 
