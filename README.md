@@ -40,6 +40,29 @@ Maksud dari output di atas adalah z hitung adalah 60.256. Dari nilai z tersebut 
 c) Kesimpulan berdasarkan P-Value yang dihasilkan<br><br>
 Karena p-value kurang dari nilai signifikan (0.005), maka h0:(rata-rata mobil yang dikemudikan kurang dari 20000 kilometer per tahun) ditolak. Sehingga klaim rata-rata mobil yang dikemudikan kurang dari 20000 kilometer per tahun adalah benar
 
+## Nomor 3
+
+a) H0 dan H1 untuk masalah tersebut:<br><br>
+H0: Saham di kota Bandung dan Bali sama<br>
+H1: Saham di kota Bandung dan Bali berbeda<br><br>
+
+b) Sampel Statistik:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170877450-ce884d65-cdc2-42c0-92b9-840197caadf2.png)<br><br>
+Dari hasil tersebut, didapatkan t hitung adalah 1.9267, p-value adalah 0.03024, dan df adalah 44<br><br>
+
+c) Uji Statistik (df =2):<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170878450-92467738-fc95-4b5a-846f-2caa7d946ab4.png)<br><br>
+
+
+d) Nilai Kritikal:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170878510-d6453092-76e8-460c-8070-c57d98e020fd.png)<br><br>
+
+e) Keputusan:<br><br>
+Karena p-value kurang dari nilai signifikan, maka h0:(Saham di kota Bandung dan Bali sama) ditolak<br><br>
+
+f) Kesimpulan:<br><br>
+Kesimpulannya adalah saham di kota Bandung dan Bali tidak sama / berbeda<br><br>
+
 ### Nomor 4
 
 a) <br><br>
