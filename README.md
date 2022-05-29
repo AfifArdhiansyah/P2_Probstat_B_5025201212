@@ -42,4 +42,44 @@ Karena p-value kurang dari nilai signifikan (0.005), maka h0:(rata-rata mobil ya
 
 ## Nomor 4
 
+a) <br><br>
+Masing-masing jenis spesies menjadi 3 subjek (grup1, grup2, grup3): <br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871563-317a3a6f-8fa5-4717-84f0-de90886bdc63.png)<br><br>
+Plot kuantil normal grup 1:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871593-ccb60044-f25e-4e43-9160-57fa5baeb153.png)<br><br>
+Plot kuantil normal grup 2:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871610-ca0f5650-837c-4511-841b-2ef15d1836f2.png)<br><br>
+Plot kuantil normal grup 3:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871668-3f49103a-51dd-4284-a369-b14c5722e4c8.png)<br><br>
+
+Berdasarkan ketiga gambar di atas, tidak ditemukan adanya outlier utama dalam homogenitas varians.<br><br>
+
+b) <br><br>
+nilai p yang didapatkan:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170870883-e6e0f287-5ffd-42bd-9ce0-fb0a284bcdcb.png)<br><br>
+Karena p lebih dari nilai signifikan, maka h0 diterima.<br><br>
+
+c) <br><br>
+model linier dengan Panjang versus Grup:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170871872-defafb8c-91ac-44d4-b101-d91a3907ee7f.png)<br><br>
+
+d) <br><br>
+Nilai p adalah 0.0013, Karena p-value kurang dari 0.005, maka h0 ditolak<br><br>
+
+e)<br><br>
+
+Post-hoc test Tukey HSD:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170872692-04035a02-72ab-4f59-bbbe-120a7a907542.png)<br><br>
+Berdasarkan hasil di atas grup3-grup1 satu0satunya yang p-value lebih dari 0.05, sehingga h0 diterima. Sedangkan p-value grup2-grup1 dan grup3-grup2 kurang dari 0.05 sehingga h0 ditolak<br><br>
+
+e)<br><br>
+Visualisasi dengan ggplot2:<br><br>
+![Uploading image.png…]()<br><br>
+
+## Nomor 5
+
+
+
+
+
 
