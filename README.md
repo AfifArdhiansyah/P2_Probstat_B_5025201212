@@ -23,3 +23,23 @@ c) <br><br>
 Karena p-value di bawah nilai signifikan (0.005), maka h0:"“tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas", sehingga kesimpulannya adalah tidak ada pengaruh yang signifikan secara statistika dalam hal kadar saturasi oksigen<br><br>
 
 ## Nomor 2
+
+Diketahui jumlah sampel adalah 100, rata-rata adalah 23500, dan standar deviasi 3900<br>
+Klaim : mobil dekemudikan rata-rata lebih dari 20.000 kilometer per tahun<br><br>
+
+a) Apakah anda setuju dengan klaim tersebut?<br><br>
+Berdasarkan uji z sebagai berikut:<br><br>
+![image](https://user-images.githubusercontent.com/87472849/170869142-f362ac87-50e3-4552-80e5-1f84d86d36ea.png)<br><br>
+Didapatkan:
+![image](https://user-images.githubusercontent.com/87472849/170869181-6a566f8e-202c-4014-a076-99c7a598852e.png)<br><br>
+Dari hasil tersebut, p-value kurang dari 0.005. Sehingga h0(rata-rata kurang dari sama dengan 20000 km) ditolak<br><br>
+
+b) Jelaskan maksud dari output yang dihasilkan!<br><br>
+Maksud dari output di atas adalah z hitung adalah 60.256. Dari nilai z tersebut didapat p value < 2.2*10^-16. Dengan persentase confidence 95% adalah 22858.51<br><br>
+
+c) Kesimpulan berdasarkan P-Value yang dihasilkan<br><br>
+Karena p-value kurang dari nilai signifikan (0.005), maka h0:(rata-rata mobil yang dikemudikan kurang dari 20000 kilometer per tahun) ditolak. Sehingga klaim rata-rata mobil yang dikemudikan kurang dari 20000 kilometer per tahun adalah benar
+
+## Nomor 4
+
+
